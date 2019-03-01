@@ -38,7 +38,7 @@
     
     WindowsOS:「HTML5.zip」ファイルの解凍後、「.exe」をダブルクリックして、ローカルサーバーを起動。
     
-    Web検索エンジンで「http://localhost:8000」でフォルダーリストを表示。
+    Webブラウザで「http://localhost:8000」でフォルダーリストを表示。
     
     「DotGoal.html」を起動してプレイできます。
     
