@@ -12,7 +12,7 @@
     
 # インストール方法
 
-    macOS:MacNoEditerの中にある「DotGoal」を起動する
+    macOS:「MacNoEditer」ファイルの中にある「DotGoal」を起動する
     
     WindowsOS:「HTML5.zip」ファイルをインストール
   
@@ -32,11 +32,11 @@
 
 # ゲームの起動方法
 
-    macOS:「DotGoal」アプリを起動する。
+    macOS:「MacNoEditer」ファイルの中にある「DotGoal」アプリを起動する。
     
-    タイトル画面にある「Start」ボタンを押して始めることができる。
+    WindowsOS:「HTML5.zip」ファイルをインストール
     
-    WindowsOS:「HTML5.zip」ファイルの解凍後、「.exe」をダブルクリックして、ローカルサーバーを起動。
+    「HTML5.zip」ファイルの解凍後、「.exe」をダブルクリックして、ローカルサーバーを起動。
     
     Webブラウザで「http://localhost:8000」でフォルダーリストを表示。
     
