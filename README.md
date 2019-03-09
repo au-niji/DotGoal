@@ -32,7 +32,11 @@
 
 # ゲームの起動方法
 
-    macOS:「MacNoEditer」ファイルの中にある「DotGoal」アプリを起動する。
+    macOS:https://drive.google.com/drive/folders/12Hc7sl0oqsgNGrxCxEWo2usMtx_41LYC?usp=sharing
+    
+    上のリンクからGoogle Driveに飛んで、DotGoal.appをダウンロード。
+    
+    「DotGoal.app」を起動する。
     
     WindowsOS:「HTML5.zip」ファイルをインストール
     
