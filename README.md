@@ -36,6 +36,8 @@
     
     上のリンクからGoogle Driveに飛んで、DotGoal.appをダウンロード。
     
+    圧縮されているのでzipファイルを展開します。
+    
     「DotGoal.app」を起動する。
     
     WindowsOS:「HTML5.zip」ファイルをインストール
