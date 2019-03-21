@@ -10,13 +10,9 @@
     
     Windows
     
-# インストール方法
-
-    macOS:「MacNoEditer」ファイルの中にある「DotGoal」を起動する
-    
-    WindowsOS:「HTML5.zip」ファイルをインストール
-  
 # 操作方法
+
+* キーボード
 
     Wキー：前進
     
@@ -29,8 +25,16 @@
     Pキー：ポーズ画面
     
     Spaceキー：ジャンプ
+    
+* ゲームパッド
 
-# ゲームの起動方法
+    左スティック:キャラクター移動
+    
+    右スティック:視点移動
+    
+    Aボタン:ジャンプ
+
+# インストールとゲームの起動方法
 
     macOS:https://drive.google.com/drive/folders/12Hc7sl0oqsgNGrxCxEWo2usMtx_41LYC?usp=sharing
     
